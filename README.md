@@ -145,6 +145,3 @@ Through this project, you gain hands-on experience with:
 CSC376 – Robotics  
 University of Toronto  
 
----
-
-If you want a more polished portfolio version, a short résumé description, or a GitHub banner — just ask!
